@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [sbtexampleproject / Compile / run] Found inputs: /Users/ryoko/IdeaProjects/SbtExampleProject/*.{java,scala},/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/java/**/*.{java,scala},/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/resources/**/*,/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/**/*.{java,scala},/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for sbtexampleproject/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0msbtexampleproject / Compile / run - Accepted event for /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala (previous stamp: Hash(64825086d438a915387d45bd2885a794d935825c), current stamp: Hash(f802744a282b34914950a85a29ef0cb19b06ada2))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala -> Trigger. Returning: (Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala, 2020-Jun-18 09:18:16.595 JT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala, 2020-Jun-18 09:18:16.595 JT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for sbtexampleproject/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0msbtexampleproject / Compile / run - Accepted event for /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala (previous stamp: Hash(f802744a282b34914950a85a29ef0cb19b06ada2), current stamp: Hash(64825086d438a915387d45bd2885a794d935825c))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala -> Trigger. Returning: (Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala, 2020-Jun-18 09:18:33.636 JT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/ryoko/IdeaProjects/SbtExampleProject/src/main/scala/example/Main.scala, 2020-Jun-18 09:18:33.636 JT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for sbtexampleproject/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
